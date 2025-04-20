@@ -1,0 +1,41 @@
+Plant,Affected Part,Symptoms,Disease
+Tomato,Leaf,"Yellowing, curling, stunted growth",Tomato Yellow Leaf Curl Virus (TYLCV)
+Apple,Fruit,"Brown spots, premature fruit drop",Apple Scab
+Rose,"Leaves, Stems","Black spots, powdery mildew","Black Spot, Powdery Mildew"
+Corn,Leaves,"Brown or purple spots, wilting",Corn Rust
+Potato,"Leaves, Stems","Wilting, leaf discoloration, tuber rot",Late Blight
+Tomato,Leaf,"Yellowing, curling, stunted growth",Tomato Yellow Leaf Curl Virus (TYLCV)
+Tomato,Fruit,Blossom-end rot (black sunken spots),Calcium deficiency
+Tomato,Roots,Root knot nematodes (galls on roots),Root Knot Nematodes
+Potato,Leaf,"Dark brown spots, white mold",Late Blight
+Potato,Tuber,Brown spots inside the tuber,Bacterial Soft Rot
+Potato,Roots,Cysts on roots,Potato Cyst Nematode
+Pepper,Leaf,"Yellowing, leaf drop",Bacterial Spot
+Pepper,Fruit,Blossom-end rot,Calcium deficiency
+Pepper,Stem,Cankers on stem,Phytophthora Blight
+Cucumber,Leaf,"Powdery mildew, downy mildew","Powdery Mildew, Downy Mildew"
+Cucumber,Fruit,"Angular leaf spot, anthracnose","Angular Leaf Spot, Anthracnose"
+Cucumber,Roots,Root knot nematodes,Root Knot Nematodes
+Apple,Leaf,Scab (brown spots),Apple Scab
+Apple,Fruit,"Brown spots, cracking",Apple Scab
+Apple,Roots,Collar rot,Phytophthora Collar Rot
+Strawberry,Leaf,"Leaf spot, leaf blight","Leaf Spot, Leaf Blight"
+Strawberry,Fruit,Gray mold,Botrytis Fruit Rot
+Strawberry,Roots,Black root rot,Black Root Rot
+Grape,Leaf,"Downy mildew, powdery mildew","Downy Mildew, Powdery Mildew"
+Grape,Fruit,"Black rot, powdery mildew","Black Rot, Powdery Mildew"
+Grape,Roots,Phylloxera,Grape Phylloxera
+Orange,Leaf,Citrus greening (yellowing),Citrus Greening
+Orange,Fruit,Citrus canker (lesions),Citrus Canker
+Orange,Roots,Phytophthora root rot,Phytophthora Root Rot
+Peach,Leaf,Peach leaf curl (red blisters),Peach Leaf Curl
+Peach,Fruit,Brown rot,Brown Rot
+Peach,Roots,Crown gall,Crown Gall
+Lettuce,Leaf,"Bottom rot, tipburn","Bottom Rot, Tipburn"
+Spinach,Leaf,"Downy mildew, white rust","Downy Mildew, White Rust"
+Carrot,Leaf,Leaf blight,Leaf Blight
+Carrot,Roots,Root knot nematodes,Root Knot Nematodes
+Onion,Leaf,"Purple blotch, downy mildew","Purple Blotch, Downy Mildew"
+Onion,Bulb,Neck rot,Onion Neck Rot
+Garlic,Leaf,"Purple blotch, rust","Purple Blotch, Rust"
+Garlic,Bulb,White rot,White Rot
