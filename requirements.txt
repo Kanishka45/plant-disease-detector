@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+torch
+diffusers
+transformers
+accelerate
+bitsandbytes
+langchain
+langchain-huggingface
+huggingface-hub
+ipywidgets
